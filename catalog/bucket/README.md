@@ -1,6 +1,7 @@
 # Google Cloud Storage Bucket blueprint
 
 A Google Cloud Storage bucket
+test
 
 ## Setters
 
